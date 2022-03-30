@@ -8,4 +8,4 @@
 
 ## Projeto
 
-<p>criar um alarme com Pyton e GUI</p>
+<p>Projeto de ES-IV para treinar git </p>
